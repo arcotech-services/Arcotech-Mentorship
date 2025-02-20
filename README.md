@@ -6,7 +6,7 @@ Este repositório é dedicado a mentorias de futuros desenvolvedores de software
 - **Backend**: Arquitetura de software, bancos de dados, APIs, autenticação, Node.js, Python, Java e outras tecnologias.  
 - **Infraestrutura**: DevOps, cloud computing, CI/CD, conteinerização, monitoramento e boas práticas de escalabilidade.  
 
-E aí, quer evoluir e se tornar um profissional de destaque na área de tecnologia? <b> Então bora! </b>🚀
+E aí, quer evoluir e se tornar um profissional na área de tecnologia? <b> Então bora! </b>🚀
 
 ## 📚 Guias 📚
 
