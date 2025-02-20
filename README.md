@@ -1,4 +1,4 @@
-# 📚 Mentorship 📚
+# 📚 Arcotech Mentorship 📚
 
 Este repositório é dedicado a mentorias futuros desenvolvedores de software, oferecendo suporte para os mesmos. Aqui, você encontrará materiais de estudo, desafios práticos, boas práticas e orientações sobre diferentes áreas da tecnologia:  
 
