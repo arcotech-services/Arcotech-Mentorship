@@ -11,7 +11,7 @@ Este é um guia sequencial para estudar e se tornar um desenvolvedor frontend.
 <br>🔹 [Como a web funciona (HTTP, DNS, Servidores, Hospedagem)](/docs/Front/web-fundamentals/http-dns-servers-hostings.md);
 <br>🔹 [Navegadores e DevTools.](/docs/Front/web-fundamentals/browser-and-devtools.md)
 
-2️⃣ *<b>Controle de Versão & Git*(TODO)</b>
+2️⃣ *<b>Controle de Versão & Git*</b>
 <br>🔹 [Conceito de git e GitHub, colaboração em projetos](/docs/Front/git/introduction.md);<br>🔹 [Conceitos básicos de Git (commit, push, pull, branch)](/docs/Front/git/commands.md);
 
 
