@@ -12,9 +12,8 @@ Este é um guia sequencial para estudar e se tornar um desenvolvedor frontend.
 <br>🔹 [Navegadores e DevTools.](/docs/Front/web-fundamentals/browser-and-devtools.md)
 
 2️⃣ *<b>Controle de Versão & Git*(TODO)</b>
-<br>🔹 [Conceito de git e GitHub, colaboração em projetos](/docs/Front/git/introduction.md);
-<br>🔹 [Conceitos básicos de Git (commit, push, pull, branch)](/docs/Front/git/commands.md);
-<br>🔹 Pull Requests e Code Reviews.
+<br>🔹 [Conceito de git e GitHub, colaboração em projetos](/docs/Front/git/introduction.md);<br>🔹 [Conceitos básicos de Git (commit, push, pull, branch)](/docs/Front/git/commands.md);
+
 
 3️⃣ *<b>HTML & Acessibilidade*(TODO)</b>
 <br>🔹 Estrutura básica de um documento HTML;
