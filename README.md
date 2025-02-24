@@ -15,3 +15,5 @@ E aí, quer evoluir e se tornar um profissional na área de tecnologia? <b> Ent�
 - **[Backend](/docs/Back/index.md)**
 
 - **[Infra](/docs/Infra/index.md)**
+
+- **[Dados](/docs/Data/index.md)**
