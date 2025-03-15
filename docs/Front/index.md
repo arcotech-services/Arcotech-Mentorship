@@ -15,11 +15,11 @@ Este é um guia sequencial para estudar e se tornar um desenvolvedor frontend.
 <br>🔹 [Conceito de git e GitHub, colaboração em projetos](/docs/Front/git/introduction.md);<br>🔹 [Conceitos básicos de Git (commit, push, pull, branch)](/docs/Front/git/commands.md);
 
 
-3️⃣ *<b>HTML & Acessibilidade*(TODO)</b>
+3️⃣ *<b>HTML & Acessibilidade*</b>
 <br>🔹 [Estrutura básica de um documento HTML, Tags semânticas e boas práticas](/docs/Front/html/structure-basic.md);
 <br>🔹 [Formulários e validação](/docs/Front/html/form-and-validations.md);
-<br>🔹 SEO básico;
-<br>🔹 Acessibilidade (ARIA, contraste, navegação por teclado).
+<br>🔹 SEO básico (TODO);
+<br>🔹 Acessibilidade (ARIA, contraste, navegação por teclado) (TODO).
 
 4️⃣ *<b>CSS & Layouts Responsivos*(TODO)</b>
 <br>🔹 Seletores, especificidade e herança;
