@@ -36,9 +36,23 @@ Crie um arquivo chamado `index.html` e adicione o seguinte código básico:
 
 ---
 
-### 🔹 Passo 2: Adicionar Estrutura Semântica
+## 🌟 Tags Semânticas e Boas Práticas
 
-Agora, vamos melhorar o código organizando melhor os elementos da página:
+As **tags semânticas** são fundamentais para tornar o HTML mais organizado, acessível e otimizado para mecanismos de busca. Elas indicam o significado do conteúdo dentro da página.
+
+### 🔹 Principais Tags Semânticas
+
+| Tag         | Descrição                                                  |
+| ----------- | ---------------------------------------------------------- |
+| `<header>`  | Representa o cabeçalho de uma seção ou página              |
+| `<nav>`     | Define a navegação do site                                 |
+| `<main>`    | Contém o conteúdo principal da página                      |
+| `<section>` | Define seções dentro do `<main>`                           |
+| `<article>` | Indica um conteúdo independente, como um post de blog      |
+| `<aside>`   | Representa um conteúdo relacionado, como uma barra lateral |
+| `<footer>`  | Define o rodapé de uma página ou seção                     |
+
+### 🔹 Exemplo Prático com Tags Semânticas
 
 ```html
 <body>
@@ -56,6 +70,10 @@ Agora, vamos melhorar o código organizando melhor os elementos da página:
             <h2>Sobre o HTML</h2>
             <p>O HTML é uma linguagem de marcação usada para estruturar páginas web.</p>
         </section>
+        <aside>
+            <h3>Dica de Acessibilidade</h3>
+            <p>Use sempre textos alternativos em imagens para tornar sua página acessível.</p>
+        </aside>
         <section id="contato">
             <h2>Contato</h2>
             <p>Envie um e-mail para contato@exemplo.com</p>
@@ -67,51 +85,17 @@ Agora, vamos melhorar o código organizando melhor os elementos da página:
 </body>
 ```
 
-📌 **Explicação**:
+📌 **Boas práticas aplicadas**:
 
-- `<header>` → Define o cabeçalho da página.
-- `<nav>` → Cria uma barra de navegação com links.
-- `<main>` → Define o conteúdo principal.
-- `<section>` → Separa conteúdos por temas.
-- `<footer>` → Representa o rodapé da página.
-
----
-
-## ♿ Acessibilidade no HTML
-
-### 🔹 Melhores Práticas de Acessibilidade
-
-#### ✅ Adicionar Texto Alternativo às Imagens
-
-Se houver imagens, adicione o atributo `alt` para descrever seu conteúdo:
-
-```html
-<img src="logo.png" alt="Logotipo da empresa XYZ">
-```
-
-#### ✅ Garantir Hierarquia de Títulos
-
-Use `<h1>`, `<h2>`, `<h3>` corretamente para estruturar bem a página.
-
-```html
-<h1>Página Principal</h1>
-<h2>Seção Importante</h2>
-<h3>Subtópico</h3>
-```
-
-#### ✅ Criar Links Acessíveis
-
-Evite links genéricos como "clique aqui". Use descrições mais claras:
-
-```html
-<a href="produtos.html">Veja nossos produtos</a>
-```
+- Utilização de **tags semânticas** para melhorar a estrutura do HTML.
+- Separação clara entre **conteúdo principal (**`**)**, **navegação (**`**)**, **cabeçalho (**`**)** e **rodapé (**`**)**.
+- Inclusão da tag `<aside>` para conteúdos complementares.
 
 ---
 
 ## 🎯 Desafio de Fixação 🚀
 
-Agora é a sua vez! Coloque em prática os conceitos aprendidos criando um projeto HTML com múltiplas páginas interligadas.
+Agora é a sua vez! Coloque em prática os conceitos aprendidos criando um site HTML utilizando **tags semânticas** e garantindo **acessibilidade**.
 
 ### 🔹 Requisitos do Projeto
 
@@ -119,15 +103,17 @@ Agora é a sua vez! Coloque em prática os conceitos aprendidos criando um proje
    - `index.html` (Página Home)
    - `saiba-mais.html` (Página Saiba Mais)
    - `projetos.html` (Página Projetos)
-2. **Criar um menu de navegação comum** a todas as páginas, permitindo a navegação entre elas.
-3. **Cada página deve conter:**
-   - Um cabeçalho (`<header>`) com um título adequado.
-   - Uma seção principal (`<main>`) com conteúdos relevantes ao tema da página.
-   - Um rodapé (`<footer>`) com informações de contato.
-4. **Garantir acessibilidade**, incluindo:
-   - Texto alternativo para imagens (`alt` em `<img>`).
-   - Hierarquia correta de títulos (`<h1>` → `<h2>` → `<h3>`).
-   - Links descritivos (`<a>` com textos claros).
+2. **Utilizar tags semânticas**, como `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>` e `<footer>`.
+3. **Criar um menu de navegação comum** para todas as páginas.
+4. **Cada página deve conter:**
+   - Um **cabeçalho (**\`\`**)** com um título adequado.
+   - Um **menu de navegação (**\`\`**)** com links entre as páginas.
+   - Um **conteúdo principal (**\`\`**)** com ao menos duas seções.
+   - Um **rodapé (**\`\`**)** com informações de contato.
+5. **Garantir acessibilidade**, incluindo:
+   - **Texto alternativo** para imagens (`alt` em `<img>`).
+   - **Hierarquia correta** de títulos (`<h1>` → `<h2>` → `<h3>`).
+   - **Links descritivos** (`<a>` com textos claros).
 
 ### 🔹 Estrutura do Menu de Navegação
 
@@ -143,8 +129,15 @@ O menu deve estar presente em todas as páginas e pode ser criado assim:
 </nav>
 ```
 
+🔎 **Desafio extra:** Na página "Projetos", adicione um `<article>` para cada projeto e um `<aside>` com links para referências.
+
 ---
 
 ## 🎯 Conclusão
 
-A estrutura HTML é a base de toda página web. Ao combinar **teoria** com **prática** e seguir boas práticas de acessibilidade, garantimos uma experiência melhor para todos os usuários. 🚀
+O uso de **tags semânticas** melhora a organização, acessibilidade e SEO da página. Combinando **teoria** e **prática**, conseguimos construir páginas web estruturadas e fáceis de navegar. 🚀
+
+## Links-uteis de referencia
+- [Guide to Writing Semantic HTML](https://cs.fyi/guide/writing-semantic-html);
+- [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp);
+- [Why & When to Use Semantic HTML Elements over Divs](https://www.youtube.com/watch?v=bOUhq46fd5g)
