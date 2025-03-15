@@ -17,7 +17,7 @@ Este é um guia sequencial para estudar e se tornar um desenvolvedor frontend.
 
 3️⃣ *<b>HTML & Acessibilidade*(TODO)</b>
 <br>🔹 [Estrutura básica de um documento HTML, Tags semânticas e boas práticas](/docs/Front/html/structure-basic.md);
-<br>🔹 Formulários e validação;
+<br>🔹 [Formulários e validação](/docs/Front/html/form-and-validations.md);
 <br>🔹 SEO básico;
 <br>🔹 Acessibilidade (ARIA, contraste, navegação por teclado).
 
