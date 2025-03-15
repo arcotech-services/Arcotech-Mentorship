@@ -137,7 +137,8 @@ O menu deve estar presente em todas as páginas e pode ser criado assim:
 
 O uso de **tags semânticas** melhora a organização, acessibilidade e SEO da página. Combinando **teoria** e **prática**, conseguimos construir páginas web estruturadas e fáceis de navegar. 🚀
 
-## Links-uteis de referencia
+## 🎯 Saiba-mais
+
 - [Guide to Writing Semantic HTML](https://cs.fyi/guide/writing-semantic-html);
 - [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp);
 - [Why & When to Use Semantic HTML Elements over Divs](https://www.youtube.com/watch?v=bOUhq46fd5g)
