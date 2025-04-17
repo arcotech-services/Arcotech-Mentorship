@@ -21,11 +21,12 @@ Este é um guia sequencial para estudar e se tornar um desenvolvedor frontend.
 <br>🔹 Acessibilidade (ARIA, contraste, navegação por teclado) (TODO).
 
 4️⃣ *<b>CSS & Layouts Responsivos*(TODO)</b>
-<br>🔹 Seletores, especificidade e herança;
+<br>🔹 [Seletores, especificidade e herança](/docs/Front/css/selectors.md);
+<br>🔹 [box-model](/docs/Front/css/box-models.md)
+<br>🔹 [Unidades de medida (px, em, rem, vw, vh, %)](/docs/Front/css/unit-measurement.md);
 <br>🔹 Flexbox e Grid Layout;
-<br>🔹 Unidades de medida (px, em, rem, vw, vh, %);
 <br>🔹 Media Queries e Mobile First;
-<br>🔹 Pré-processadores (Sass, LESS).
+
 
 5️⃣ *<b>Logica e linguagem de programação com JavaScript (ES6+)*(TODO)</b>;
 <br>🔹 Sintaxe básica e manipulação do DOM;
